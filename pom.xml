@@ -27,7 +27,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>com.mycompany.app.App</mainClass>
+              <mainClass>ar.com.tpfinal</mainClass>
             </manifest>
           </archive>
         </configuration>
