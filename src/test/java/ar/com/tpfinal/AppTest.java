@@ -12,7 +12,7 @@ public class AppTest {
   @Test
     public void compararTest () {
 	 
-	 assertTrue ("El primer numero es menor que el segundo", obj_prueba.comparar( 9 ,7)); 
+	 assertTrue ("El primer numero es menor que el segundo", obj_prueba.comparar( 7 ,9)); 
 	 }
   
 }
